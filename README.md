@@ -3,7 +3,7 @@ exa-pkgsrc
 
 NetBSD pkgsrc script for script for `exa`.
 
-You can find exa [here][1]
+You can find `exa` [here][1]
 
 NOTE: This package is not yet available in the pkgsrc tree.
 
@@ -32,6 +32,8 @@ Credits
 -------
 
 * `exa` is developed and maintained by the [Benjamin Sago][3]
+* Thanks to `@coypoop` and `leot@` for reviewing and suggesting fixes to the
+  package.
 
 License
 -------
