@@ -1,4 +1,4 @@
-# $NetBSD$
+# $NetBSD: Makefile,v 1.1 2019/07/18 00:22:13 fox Exp $
 
 DISTNAME=	exa-0.9.0
 CATEGORIES=	sysutils

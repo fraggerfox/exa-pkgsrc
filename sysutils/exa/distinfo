@@ -1,4 +1,4 @@
-$NetBSD: distinfo,v 1.2 2019/04/12 08:08:48 maya Exp $
+$NetBSD: distinfo,v 1.1 2019/07/18 00:22:13 fox Exp $
 
 SHA1 (exa/aho-corasick-0.7.3.crate) = eeb60a30f598c9ead5d35ba4218c0d48eeeca0f6
 RMD160 (exa/aho-corasick-0.7.3.crate) = 3811f1d2aed0c63b2209ce239775a2ab9d28230e
