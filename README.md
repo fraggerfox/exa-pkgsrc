@@ -1,11 +1,9 @@
 exa-pkgsrc
 ==========
 
-NetBSD pkgsrc script for script for `exa`.
+NetBSD [pkgsrc][4] script for script for `exa`.
 
 You can find `exa` [here][1]
-
-NOTE: This package is not yet available in the pkgsrc tree.
 
 Installation
 ------------
@@ -43,3 +41,4 @@ BSD 2-clause. See LICENSE.
 [1]: https://the.exa.website/
 [2]: https://github.com/ogham/exa#installation
 [3]: https://bsago.me/
+[4]: http://pkgsrc.se/sysutils/exa
