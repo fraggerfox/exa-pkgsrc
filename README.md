@@ -1,7 +1,7 @@
 exa-pkgsrc
 ==========
 
-NetBSD [pkgsrc][4] script for script for `exa`.
+NetBSD [pkgsrc][4] script for `exa`.
 
 You can find `exa` [here][1]
 
