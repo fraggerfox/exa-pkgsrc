@@ -5,6 +5,8 @@ NetBSD [pkgsrc][4] script for `exa`.
 
 You can find `exa` [here][1]
 
+**NOTE: This port has been [deprectated][5] and removed from the pkgsrc tree.**
+
 Installation
 ------------
 
@@ -42,3 +44,4 @@ BSD 2-clause. See LICENSE.
 [2]: https://github.com/ogham/exa#installation
 [3]: https://bsago.me/
 [4]: http://pkgsrc.se/sysutils/exa
+[5]: https://pkgsrc.se/files.php?messageId=20230911122023.1EB85FBDB@cvs.NetBSD.org
